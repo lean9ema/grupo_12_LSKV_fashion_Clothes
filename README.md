@@ -1,4 +1,4 @@
-### grupo_12_LosMiopes
+### Grupo_12_LosMiopes
 Entregable sprint  n°1 Digital House
 
 # Los productos que brinda nuestro sitio:
@@ -23,25 +23,21 @@ Ajustaremos nuestra oferta a ese público:
 
 https://www.zara.com/ar/es/mujer-nuevo-l1180.html
 
-Cosas que nos gustaron: 
 * filtro desplegable.
 * interfaz de login.
 
 http://m.falabella.com.ar/falabella-ar/category/cat20139/Ropa-de-mujer
 
-Cosas que nos gustaron: 
 * filtro. 
 * login a modo de ventana.
 * header. 
 
 https://www.c-and-a.com/es/es/shop
 
-Cosas que nos gustaron: 
 * categorizacion del home.
 
 https://www.montagne.com.ar/?gclid=CjwKCAjwzt6LBhBeEiwAbPGOgW0EsLgyb_ac6fp3Xse9BN1NAYI-DQWs1GSJGL-ozX9rgCpaKA7r2hoC1fcQAvD_BwE
 
-Cosas que nos gustaron: 
 * carrito de compras. 
 * home. 
 * colores. 
@@ -51,7 +47,6 @@ Cosas que nos gustaron:
 
 https://www.sweet.com.ar/vintage-1/sweet-sale.html
 
-Cosas que nos gustaron: 
 * metodo de pago.
 * redes minimalistas.
 * footer. 
@@ -60,10 +55,8 @@ Cosas que nos gustaron:
 
 https://markova.com/productos/w122_-_cigarette-cigala?variant_id=22155&main_property_id=26&utm_source=blue&utm_medium=cpc&utm_campaign=retargeting
 
-Cosas que nos gustaron: 
 * Detalle de producto.
 
 https://www.victoriassecret.com/us/vs/panties-catalog/the-lacie-floral-lace-cheeky-panty-5000005394?rrec=true&recommendedProductType=matchback&choice=0V6R&genericId=11146102
 
-Cosas que nos gustaron: 
 * Detalle de producto.
