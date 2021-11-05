@@ -1,19 +1,20 @@
-### Grupo_12_LosMiopes
+# Grupo_12_LosMiopes
 Entregable sprint  n°1 Digital House
 
-# Los productos que brinda nuestro sitio:
-* Indumentaria, Ropa de mujer
+## Los productos que brinda nuestro sitio:
+* Indumentaria, Ropa de mujer.
 
-# Nuestra  audiencia:
-* Un rango entre 18 a 60 años
+## Nuestra  audiencia:
+* Un rango entre 18 a 60 años.
 
-Ajustaremos nuestra oferta a ese público:
-* Teniendo un estatetica mas acesible y facil de usar con colores más neutros 
+## Ajustaremos nuestra oferta a ese público:
+* Intefaz facil de enteder y usar, una experiencia de usuario excelente.
 
-# Descripcion de los miembros del grupo:
+## Descripcion de los miembros del grupo:
+
 * Leandro Emanuel Marino: El es el lider del grupo. Le gusta más el backend, le encanta las peliculas de terror y el Hard Rock.
 
-* Kenet Chapeton: Le gusta mas el backend, las matemáticas. 
+* Kenet Chapeton: Le gusta mas el backend y las matemáticas. 
 
 * Vanina Vilte: Le gusta mas el frontend, se interesa en salir y conocer lugares nuevos.
 
