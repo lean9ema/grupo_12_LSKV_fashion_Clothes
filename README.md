@@ -20,7 +20,7 @@ Entregable sprint  n°1 Digital House
 
 * Sharon Melanie Flores Garcia: Le gusta mas el backend y, esta interesada en aprender cosas nuevas
 
-# Referencias:
+## Referencias:
 
 https://www.zara.com/ar/es/mujer-nuevo-l1180.html
 
