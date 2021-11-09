@@ -61,3 +61,6 @@ https://markova.com/productos/w122_-_cigarette-cigala?variant_id=22155&main_prop
 https://www.victoriassecret.com/us/vs/panties-catalog/the-lacie-floral-lace-cheeky-panty-5000005394?rrec=true&recommendedProductType=matchback&choice=0V6R&genericId=11146102
 
 * Detalle de producto.
+
+## Tablero de trabajo del grupo:
+ https://trello.com/b/sj6r8Nm2/grupo-12-dh
