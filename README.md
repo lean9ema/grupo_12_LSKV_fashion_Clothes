@@ -16,7 +16,7 @@ Entregable sprint  n°1 Digital House
 
 * Kenet Chapeton: Le gusta mas el backend y las matemáticas. 
 
-* Vanina Vilte: Le gusta mas el frontend, se interesa en salir y conocer lugares nuevos.
+* Vanina Vilte: Le gusta mas el frontend, le encanta sacar fotografías 📷, tocar la batería 🥁, conocer nuevos lugares y personas.
 
 * Sharon Melanie Flores Garcia: Le gusta mas el backend y, esta interesada en aprender cosas nuevas
 
